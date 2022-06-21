@@ -9,7 +9,7 @@
         <libDirectory>${project.basedir}/lib</libDirectory>
         <log4jVersion>1.2.17</log4jVersion>
         <sql2oVersion>1.5.4</sql2oVersion>
-        <mysqlVersion>6.0.6</mysqlVersion>
+        <mysqlVersion>8.0.28</mysqlVersion>
         <javaxVersion>4.0.0</javaxVersion>
         <jerseyVersion>1.19.3</jerseyVersion>
         <jose4jVersion>0.6.0</jose4jVersion>
