@@ -13,7 +13,7 @@
         <javaxVersion>4.0.0</javaxVersion>
         <jerseyVersion>1.19.3</jerseyVersion>
         <jose4jVersion>0.6.0</jose4jVersion>
-        <apacheCommonsVersion>1.3.3</apacheCommonsVersion>
+        <apacheCommonsVersion>1.5</apacheCommonsVersion>
         <annotationsApiVersion>6.0.53</annotationsApiVersion>
     </properties>
   
